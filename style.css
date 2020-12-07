@@ -1,0 +1,76 @@
+/*--------background-image section -----*/
+#main{
+    background-image: url('https://cms-web.olacabs.com/00000000383.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 10px 0;
+}
+/*--------badge color css----------*/
+.olacolor{
+    background-color: #CDDC39;
+    width:100%;
+}
+/*--------title logo css----------*/
+.navtit{
+    color:#CDDC39 ; 
+    font-size: 45px; 
+}
+/*-----main heading css----------*/
+.olaa{
+    color:#fff !important;
+    text-shadow: 2px 2px #002ed4;
+}
+/*-------footer span css--------*/
+footer span{
+    color:#CDDC39 ;
+}
+/*---------car icon css on navbar-------*/
+.navcol{
+    color:#CDDC39 ;
+    font-size: 45px; 
+}
+/*--------card body css-------------*/
+.card-body h5{
+    border-radius:25px;
+    padding:7px;
+    text-transform:uppercase;
+}
+/*-------card body heading css------------*/
+.card-body .city {
+  background-color: #CDDC39;
+  padding: 7px 15px;
+  border-radius: 25px;
+}
+/*--------input css----------------*/
+input, select:focus {
+    outline: none !important;
+}
+/*-------input type text css------*/
+input[type='text'] {
+    background-color: #e9ecef;
+    border: none;
+}
+/*--------card column heading css------*/
+.input-group-text {
+    border: none;
+    font-size: 10px;
+    width: 80px;
+}
+/*------card css----------------*/
+.card{
+    margin-bottom:40px;
+}
+/*-----line btw badge & heading--------*/
+.line{
+    margin: 16px 0px;
+    border: 1px solid #e9ecef;
+}
+/*-------option box input css---------*/
+.custom-select {
+    appearance:none !important; 
+    background-color: #eae9ef !important;
+    border: none;
+    font-size: 13px;
+    background: none;
+}

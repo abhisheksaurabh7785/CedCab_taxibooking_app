@@ -1,0 +1,36 @@
+body{
+    background-image: url('https://cms-web.olacabs.com/00000000383.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+   /*/ background-position: center;*/
+ 
+}
+
+input{
+    display:block;
+    padding: 5px 5px;
+    width: 200px;
+    text-align:center;
+}
+.submit{
+    margin-top:10px;
+    border:none;
+    background-color:#0fe0f5b8;
+    font-size: 20px;
+}
+h2{
+    margin-left: 606px;
+    color: #07f2ff;
+    background-color: darkgreen;
+    width: 83px;
+}
+a{
+    text-decoration:none;
+}
+.main{
+    margin-left: 550px;
+    color: aliceblue;
+}
+.sub2{
+    width:210px;
+}
