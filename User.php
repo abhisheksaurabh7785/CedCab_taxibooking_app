@@ -29,7 +29,7 @@ class User{
 			$_SESSION['admin']= $data['isadmin'];
 			$_SESSION['block']= $data['isblock'];
 			$_SESSION['USERID'] = $data['id'];
-			 $_SESSION['NAME'] = $data['name'];
+			$_SESSION['NAME'] = $data['name'];
 			if($_SESSION['admin']==1){
 				$_SESSION['name'] = $data['name'];
 
