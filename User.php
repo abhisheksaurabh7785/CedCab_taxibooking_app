@@ -1,21 +1,17 @@
 <?php
 session_start();
-
-
-
-// require 
-
 class User{
-	// public $id;
-	// public $user_name;
-	// public $password;
-	// public $isblock;
-	// public $dateofsignup;
-	// public  $name;
-	// public $mobile;
- //    public $user;
- //    public $isadmin;
- //    public $conn;
+/* public $id;
+	    public $user_name;
+	public $password;
+	public $isblock;
+	public $dateofsignup;
+	public  $name;
+	public $mobile;
+	public $user;
+	public $isadmin;
+	public $conn;
+*/	
 
     function login($username, $password,$conn){
 			if(strlen($password) > 7){
